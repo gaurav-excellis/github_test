@@ -20,6 +20,9 @@ class MyApp extends StatelessWidget {
         body: Column(children: [
           Text(
             "Main branch",
+          ),
+          Text(
+            "Added in the website in main branch",
           )
         ]),
       ),

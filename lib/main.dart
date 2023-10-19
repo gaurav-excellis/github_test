@@ -20,7 +20,10 @@ class MyApp extends StatelessWidget {
         body: Column(children: [
           Text(
             "Main branch",
-          )
+          ),
+          Text(
+            "Main branch 2nd line",
+          ),
         ]),
       ),
     );

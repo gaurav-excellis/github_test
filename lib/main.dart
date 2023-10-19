@@ -21,9 +21,7 @@ class MyApp extends StatelessWidget {
           Text(
             "Main branch",
           ),
-          Text(
-            "Main branch 2nd line",
-          ),
+          
         ]),
       ),
     );
